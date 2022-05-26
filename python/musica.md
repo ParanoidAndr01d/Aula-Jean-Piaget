@@ -1,6 +1,6 @@
 # Desafio 1 (aquecimento)
 
-- Um amigo próximo pediu para desenvolver um trecho de código capaz de reproduzir um efeito sonoro ou uma música. Desensolva esse programa usando a biblioteca pygame.
+- Um amigo próximo pediu para desenvolver um trecho de código capaz de reproduzir um efeito sonoro ou uma música. Desenvolva esse programa usando a biblioteca pygame.
 
 [Lista de atividades](./../python.md)
 
