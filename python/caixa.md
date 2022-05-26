@@ -1,6 +1,6 @@
-# Desafio 3
+# Desafio 5
 
-- Devido aos efeitos da globalização e visando o lucro, uma rede de caixas de supermercado resolver adotar diversas moedas diferentes, tais como dolar e euro, pensando nisso desenvolva um programa que calcule automáticamente a conversão da moeda.
+- Devido aos efeitos da globalização e visando o lucro, uma rede de caixas de supermercado resolveram adotar diversas moedas diferentes, tais como dolar e euro, pensando nisso desenvolva um programa que calcule automáticamente a conversão da moeda.
 
 O programa tem que fazer as seguintes conversões:
 
