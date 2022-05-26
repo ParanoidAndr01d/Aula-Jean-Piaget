@@ -1,6 +1,6 @@
-# Desafio 3
+# Desafio 5
 
-- Devido aos efeitos da globalização e visando o lucro, uma rede de caixas de supermercado resolver adotar diversas moedas diferentes, tais como dolar e euro, pensando nisso desenvolva um programa que calcule automáticamente a conversão da moeda.
+- Devido aos efeitos da globalização e visando o lucro, uma rede de caixas de supermercado resolveram adotar diversas moedas diferentes, tais como dolar e euro, pensando nisso desenvolva um programa que calcule automáticamente a conversão da moeda.
 
 O programa tem que fazer as seguintes conversões:
 
@@ -21,5 +21,7 @@ real = float(input('Digite o valor em reais'))
 print(f'{real} reais é equivalente a {real*real_para_dolar} dólares e {real*real_para_euro}')
 print()
 ```
+
+[Lista de atividades](./../python.md)
 
 <img height="300" width="300" align="right" alt="Thinking in desktop" src="./assets/complex.gif" />
