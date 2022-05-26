@@ -12,3 +12,5 @@ Digite a segunda nota:   7
 A média é:  7.5
 Aluno aprovado
 ```
+
+[Lista de atividades](./../python.md)

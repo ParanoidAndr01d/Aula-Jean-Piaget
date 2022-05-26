@@ -13,3 +13,7 @@ Exemplo de execução esperada
   Digite a segunda nota:   7
   A média é:   7.5
 ```
+
+[Lista de atividades](./../python.md)
+
+<img height="300" width="300" align="right" alt="Computing" src="./assets/computing.gif">

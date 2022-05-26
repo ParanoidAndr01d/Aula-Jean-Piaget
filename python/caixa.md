@@ -22,4 +22,6 @@ print(f'{real} reais é equivalente a {real*real_para_dolar} dólares e {real*re
 print()
 ```
 
+[Lista de atividades](./../python.md)
+
 <img height="300" width="300" align="right" alt="Thinking in desktop" src="./assets/complex.gif" />
